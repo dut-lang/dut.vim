@@ -3,7 +3,7 @@ break case continue default for while else catch if
 switch throw try
 
 // keywords
-class clone delegate extends local resume return this
+class clone delegate extends var resume return this
 parent yield constructor vargc vargv static function
 
 
