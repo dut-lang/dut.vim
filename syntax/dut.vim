@@ -4,7 +4,7 @@
 " Maintainer: Avelino <thiago@avelino.xxx>
 " Last Change: 15-Aug-2016.
 " Filenames: *.dut
-" Version: 0.2
+" Version: 0.1
 "------------------------------------------------------------------------------
 
 syn case match
